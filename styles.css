@@ -3,9 +3,13 @@ title {
 }
 
 footer {
-	color: blue;
+	color: aqua;
 }
 
 body {
 	color: black;
+}
+
+.column {
+	color: aqua;
 }
